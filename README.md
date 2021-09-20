@@ -1,2 +1,2 @@
-# brongiro-jour352-fall21
+# jour352-fall21
 Class jour352

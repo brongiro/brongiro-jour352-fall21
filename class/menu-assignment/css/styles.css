@@ -1,1 +1,26 @@
 /* font-family: "Raleway", sans-serif; */
+body{
+  font-family: "Raleway", sans-serif;
+}
+h3{
+  color: #8b0000;
+  font-family: "Raleway", sans-serif;
+}
+
+h2 {
+  color: #87ccbb;
+  font-family: "Raleway", sans-serif;
+}
+
+.intro{
+  color: #87ccbb;
+  font-family: "Raleway", sans-serif;
+}
+
+hr.line{
+  border-top: 2px dotted gray;
+}
+
+.footer p{
+  color: #87ccbb;
+}

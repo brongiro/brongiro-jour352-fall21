@@ -1,8 +1,41 @@
 h1 {
     color: #33485e;
+    font-family: 'Poppins', sans-serif;
 }
 
+h2{
+  font-family: 'Poppins', sans-serif;
+  background-color: #163342;
+  color: white;
+}
+
+h5{
+  font-family: 'Courier new', sans-serif;
+  font-style: italic;
+}
+
+#color{
+  background-color: #163342;
+  color: white;
+}
 img {
-    max-width: 600px;
+    max-width: 300px;
     width: 100%;
+    float: right;
+}
+
+body{
+  font-family: 'PT Serif', serif;
+  display: block;
+  margin: auto;
+  width: 600;
+}
+
+ul#horizontal-list li{
+  display: inline;
+  padding: 16px;
+}
+
+hr.line{
+  border-top: 2px dotted gray;
 }

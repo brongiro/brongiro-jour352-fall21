@@ -9,7 +9,7 @@ div {
 }
 
 .flex-container div{
-  border: 5px solid black;
+  border: 2px solid white;
 }
 
 .light-pink div{
@@ -25,10 +25,10 @@ div {
   background-color: #85cfd8;
 }
 
-.green div{
+.green{
   background-color: #8d3;
 }
 
-.orange div{
+.orange{
   background-color: #e76e34;
 }

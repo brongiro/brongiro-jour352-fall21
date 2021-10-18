@@ -107,8 +107,8 @@ h5 {
 img {
 	max-width: 600px;
 	width: 33%;
-	float: right;
+	float: left;
 
 	/* To fix alignment */
-	margin-top: 20px;
+	margin-top: 50px;
 }

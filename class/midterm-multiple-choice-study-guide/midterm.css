@@ -1,4 +1,7 @@
-.black { 
+img{
+  width: 100%;
+}
+.black {
     color: #000000;
 }
 
@@ -18,7 +21,7 @@
     color: #FFFFFF;
 }
 
-.black-bg { 
+.black-bg {
     background-color: #000000;
 }
 
@@ -102,4 +105,3 @@ a, a:visited {
 a:hover {
     color: #FCA311;
 }
-
